@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ky6zzA7NlowFVhAERSdy6ZTJYZAmnEi_
 """
 
-### James Byrne
-### Artificial Intellignece - Midterm Project
-###
 ### This program simulates races between n runners and determines the fastest
 ### 3 without use of a timer.
 ### Runners can only race in groups of 5 and the fastests of each groups are raced
